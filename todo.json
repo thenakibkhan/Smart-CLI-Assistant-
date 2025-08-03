@@ -1,0 +1,10 @@
+{
+    "tasks": [
+        "eating",
+        "drinking"
+    ],
+    "done": [
+        "bathing",
+        "dancing"
+    ]
+}
