@@ -80,3 +80,14 @@ If you want to use the Gmail feature:
 
 - Python 3
 - `requests`, `json`, `datetime`, `webbrowser`, `smtplib`
+
+## 🔧 Setup Environment Variables
+
+This project uses a `.env` file to store API keys securely.
+
+Create a file named `.env` in the root directory of the project and add your keys:
+
+
+You can refer to the `.env.example` file for the required format.
+
+**⚠️ Warning:** Never upload your `.env` file to GitHub.
