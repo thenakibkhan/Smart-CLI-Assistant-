@@ -1,5 +1,9 @@
+import os
 from modules import time_utils,web_utils,note_utils,todo_utils,email_utils
 from modules import weather_utils,news_utils,fun_utils
+from dotenv import load_dotenv
+load_dotenv()
+
 
 print("Hii....I am your Smart Assistant...How can i help you??")
 while(True):

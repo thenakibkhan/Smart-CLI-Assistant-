@@ -1,0 +1,18 @@
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Environment variables
+.env
+
+# VSCode/IDE settings
+.vscode/
+.idea/
+
+# OS-specific
+Thumbs.db
+.DS_Store
